@@ -1,0 +1,6 @@
+[submodule "sunset-challenge-web"]
+	path = sunset-challenge-web
+	url = git@github.com:brunownk/sunset-challenge-web.git
+[submodule "sunset-challenge-api"]
+	path = sunset-challenge-api
+	url = git@github.com:brunownk/sunset-challenge-api.git
