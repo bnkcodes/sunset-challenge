@@ -21,8 +21,8 @@ The Sunset Challenge is a full-stack todo list application developed as part of 
 
 The project is divided into two main components:
 
-- `sunset-challenge-web`: Modern React frontend with TypeScript
-- `sunset-challenge-api`: Robust NestJS backend with PostgreSQL
+- [`sunset-challenge-web`](./sunset-challenge-web/README.md): Modern React frontend with TypeScript
+- [`sunset-challenge-api`](./sunset-challenge-api/README.md): Robust NestJS backend with PostgreSQL
 
 ### Frontend Stack
 - React 18 with TypeScript
@@ -147,4 +147,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [Sunset](https://sunset.com) for the opportunity
-- All open-source libraries and tools used in this project 
+- All open-source libraries and tools used in this project
+
+## 🔄 Navigation
+
+- [Back to Top](#sunset-challenge)
+- [Frontend Documentation](./sunset-challenge-web/README.md)
+- [Backend Documentation](./sunset-challenge-api/README.md) 
