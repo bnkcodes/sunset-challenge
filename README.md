@@ -4,6 +4,8 @@
   <img src="https://i.ibb.co/kch2SVb/sunset-logo.png" alt="Sunset Logo" width="200" />
 </p>
 
+> Technical assessment for Sunset mid-level software engineer position. A modern todo list with React frontend and NestJS backend.
+
 ## 📋 Overview
 
 The Sunset Challenge is a full-stack todo list application developed as part of a technical assessment. The project showcases modern web development practices and technologies, featuring a React frontend and a NestJS backend.
@@ -132,14 +134,6 @@ The backend API provides the following endpoints:
 - Frontend: [https://sunset-challenge-web.vercel.app](https://sunset-challenge-web.vercel.app)
 - Backend: [https://sunset-challenge-api.vercel.app](https://sunset-challenge-api.vercel.app)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -153,4 +147,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * [Back to Top](#sunset-challenge)
 * [Frontend Documentation](https://github.com/brunownk/sunset-challenge-web)
-* [Backend Documentation](https://github.com/brunownk/sunset-challenge-api) 
+* [Backend Documentation](https://github.com/brunownk/sunset-challenge-api)
