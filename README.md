@@ -87,26 +87,6 @@ The applications will be available at:
 - Frontend: http://localhost:5172
 - Backend: http://localhost:3000
 
-## 📦 Project Structure
-
-```
-sunset-challenge/
-├── sunset-challenge-web/    # Frontend application
-│   ├── src/
-│   │   ├── app/            # Application core
-│   │   ├── assets/         # Static assets
-│   │   ├── Router/         # Application routes
-│   │   └── view/           # Page components
-│   └── ...
-└── sunset-challenge-api/    # Backend API
-    ├── src/
-    │   ├── auth/           # Authentication module
-    │   ├── lists/          # Lists module
-    │   ├── tasks/          # Tasks module
-    │   └── prisma/         # Database schema
-    └── ...
-```
-
 ## 🔗 API Documentation
 
 The backend API provides the following endpoints:
